@@ -1,3 +1,6 @@
 [submodule "Proyecto_Bambi"]
 	path = Proyecto_Bambi
 	url = https://github.com/LuigiNorp/Proyecto_Bambi
+[submodule "larrabezua_certificates_downloader"]
+	path = larrabezua_certificates_downloader
+	url = https://github.com/LuigiNorp/larrabezua_certificates_downloader
