@@ -13,3 +13,6 @@
 [submodule "Maths"]
 	path = Maths
 	url = https://github.com/LuigiNorp/Maths
+[submodule "Machine_Learning"]
+	path = Machine_Learning
+	url = https://github.com/LuigiNorp/Machine_Learning
