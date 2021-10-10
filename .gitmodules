@@ -1,15 +1,12 @@
 [submodule "Proyecto_Bambi"]
 	path = Proyecto_Bambi
 	url = https://github.com/LuigiNorp/Proyecto_Bambi
-[submodule "larrabezua_certificates_downloader"]
-	path = larrabezua_certificates_downloader
-	url = https://github.com/LuigiNorp/larrabezua_certificates_downloader
-[submodule "Basic_Functions_Shortcuts"]
-	path = Basic_Functions_Shortcuts
-	url = https://github.com/LuigiNorp/Basic_Functions_Shortcuts
 [submodule "Game_Of_Life"]
 	path = Game_Of_Life
 	url = https://github.com/LuigiNorp/Game_Of_Life
 [submodule "Certificates_Downloader"]
 	path = Certificates_Downloader
 	url = https://github.com/LuigiNorp/Certificates_Downloader
+[submodule "Python_Utilities"]
+	path = Python_Utilities
+	url = https://github.com/LuigiNorp/Python_Utilities
