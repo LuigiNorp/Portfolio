@@ -10,3 +10,6 @@
 [submodule "Game_Of_Life"]
 	path = Game_Of_Life
 	url = https://github.com/LuigiNorp/Game_Of_Life
+[submodule "Certificates_Downloader"]
+	path = Certificates_Downloader
+	url = https://github.com/LuigiNorp/Certificates_Downloader
