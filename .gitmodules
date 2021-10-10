@@ -16,3 +16,6 @@
 [submodule "Machine_Learning"]
 	path = Machine_Learning
 	url = https://github.com/LuigiNorp/Machine_Learning
+[submodule "Web_Scraping"]
+	path = Web_Scraping
+	url = https://github.com/LuigiNorp/Web_Scraping
