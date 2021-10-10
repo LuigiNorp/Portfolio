@@ -10,3 +10,6 @@
 [submodule "Curiosities"]
 	path = Curiosities
 	url = https://github.com/LuigiNorp/Curiosities
+[submodule "Maths"]
+	path = Maths
+	url = https://github.com/LuigiNorp/Maths
