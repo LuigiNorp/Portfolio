@@ -1,21 +1,13 @@
-[submodule "Proyecto_Bambi"]
-	path = Proyecto_Bambi
-	url = https://github.com/LuigiNorp/Proyecto_Bambi
-[submodule "Certificates_Downloader"]
-	path = Certificates_Downloader
-	url = https://github.com/LuigiNorp/Certificates_Downloader
-[submodule "Python_Utilities"]
-	path = Python_Utilities
-	url = https://github.com/LuigiNorp/Python_Utilities
 [submodule "Curiosities"]
 	path = Curiosities
 	url = https://github.com/LuigiNorp/Curiosities
-[submodule "Maths"]
-	path = Maths
-	url = https://github.com/LuigiNorp/Maths
 [submodule "Machine_Learning"]
 	path = Machine_Learning
 	url = https://github.com/LuigiNorp/Machine_Learning
 [submodule "Web_Scraping"]
 	path = Web_Scraping
 	url = https://github.com/LuigiNorp/Web_Scraping
+
+[submodule "Scripts"]
+	path = Scripts
+	url = git@github.com:LuigiNorp/Scripting.git
