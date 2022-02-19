@@ -11,3 +11,6 @@
 [submodule "Scripts"]
 	path = Scripts
 	url = git@github.com:LuigiNorp/Scripting.git
+[submodule "WEC_Certificates"]
+	path = WEC_Certificates
+	url = git@github.com:LuigiNorp/Certificates_Downloader.git
