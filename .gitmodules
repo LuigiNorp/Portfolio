@@ -14,3 +14,6 @@
 [submodule "WEC_Certificates"]
 	path = WEC_Certificates
 	url = git@github.com:LuigiNorp/Certificates_Downloader.git
+[submodule "spotify_etl"]
+	path = spotify_etl
+	url = git@github.com:LuigiNorp/spotify_etl.git
