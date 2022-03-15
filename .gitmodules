@@ -17,3 +17,6 @@
 [submodule "spotify_etl"]
 	path = spotify_etl
 	url = git@github.com:LuigiNorp/spotify_etl.git
+[submodule "products_api"]
+	path = products_api
+	url = git@github.com:LuigiNorp/products_api.git
